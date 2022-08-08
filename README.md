@@ -4,7 +4,7 @@ My name is **Damian** and I'm going to become a **Front-end Developer**. My **bi
 
 I programme **in HTML, CSS (I use SCSS), and JavaScript (I use TypeScript) every day**. These languages are **very useful and give me a lot of happiness**. I know to accomplish my dreams, I have to learn a lot of other languages and I have to get a tremendous knowledge of the programming, economics and life. In the future, I will learn another languages like Python, C# and Java **to create more complex web applications**. I'm ready **to dedicate my all life to get better a developer, businessman and human**. 
 
-![perquis](https://user-images.githubusercontent.com/71089523/183245668-e54e1a86-e423-48f0-be22-0ffb355891d7.png)
+![perquis](https://user-images.githubusercontent.com/71089523/183462687-262641ea-2b5d-4acf-b18b-693925ad4475.png)
 
 You're probably wondering **why I have so much ambition and determination**. I think my power **comes from my desires**. I want to be someone who is well-known, respectful, and resourceful. I desire to be someone **whose name and surname will famous around world**. I believe in myself and I know these dreams really can come true. I'm not afraid **to risk and take up challanges**. I'm aware of my creativity and I have a will which helps me **to accomplish my serious purposes**. 
 
