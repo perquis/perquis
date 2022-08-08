@@ -6,7 +6,7 @@ I programme **in HTML, CSS (I use SCSS), and JavaScript (I use TypeScript) every
 
 ![perquis](https://user-images.githubusercontent.com/71089523/183462687-262641ea-2b5d-4acf-b18b-693925ad4475.png)
 
-You're probably wondering **why I have so much ambition and determination**. I think my power **comes from my desires**. I want to be someone who is well-known, respectful, and resourceful. I desire to be someone **whose name and surname will famous around world**. I believe in myself and I know these dreams really can come true. I'm not afraid **to risk and take up challanges**. I'm aware of my creativity and I have a will which helps me **to accomplish my serious purposes**. 
+You're probably wondering **why I have so much ambition and determination**. I think my power **comes from my desires**. I want to be someone who is well-known, respectful, and resourceful. I desire to be someone **whose name and surname will be famous around world**. I believe in myself and I know these dreams really can come true. I'm not afraid **to risk and take up challanges**. I'm aware of my creativity and I have a will which helps me **to accomplish my serious purposes**. 
 
 ## My favorite quote :bookmark_tabs:
 > *"Don’t compare yourself with other people; compare yourself with who you were yesterday."* ~ **Jordan Peterson**
