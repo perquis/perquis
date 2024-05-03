@@ -15,9 +15,10 @@ Hmm... What am I using?
 - TypeScript
 ```
 
+---
+
 ### My GitHub Activity Overview 📋
 
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=perquis&" alt="perquis" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perquis&show_icons=true&locale=en&layout=compact" alt="perquis" />
 </div>
