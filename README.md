@@ -15,8 +15,6 @@ Hmm... What am I using?
 - TypeScript
 ```
 
----
-
 ### My GitHub Activity Overview 📋
 
 <div>
