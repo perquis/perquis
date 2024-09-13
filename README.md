@@ -1,8 +1,8 @@
-## Hi there! :raised_hand:
+# Hi there! :raised_hand:
 
 I am a creative **Full-stack Developer** and **Digital Designer** with a great deal of ambition and determination to create innovative business solutions. Programming is my passion, which brings me a lot of enjoyment.
 
-### Programming languages I've used
+## Programming languages I've used
 
 Hmm... What am I using?
 
@@ -12,7 +12,9 @@ Hmm... What am I using?
 - SCSS,
 - Python,
 - JavaScript,
-- TypeScript
+- TypeScript,
+- LaTeX,
+- C#
 ```
 
 ### My GitHub Activity Overview 📋
